@@ -3,7 +3,6 @@
 
 <!-- badges: start -->
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](#)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#)  
 <!-- badges: end -->
 
 ## 📖 Table of Contents  
